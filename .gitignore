@@ -1,0 +1,5 @@
+# ignore .py byte code
+*.pyc
+# ignore constants file
+constants.py
+
